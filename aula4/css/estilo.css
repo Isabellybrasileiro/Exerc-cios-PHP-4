@@ -1,0 +1,26 @@
+body{
+	font-family: Tahoma;
+	font-size: 14px;
+	color: #fab1a0;
+}
+
+.menu{
+	font-size: 12px;
+	padding: 2px;
+	background-color: #0984e3;
+}
+
+.menu ul{
+	list-style: none;
+	padding: 0px;
+}
+
+.menu ul li{
+	display: inline;
+	padding: 5px;
+}
+
+.menu a{
+	color: #fdcb6e
+
+}
